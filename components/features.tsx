@@ -34,7 +34,7 @@ export default function Features() {
         </svg>
       ),
       title: "Cutiest Meme",
-      description: "It's a dinosaur with big nostrils"
+      description: "It's a cute dog with humble smile"
     },
     // {
     //   svgPath: (
@@ -86,9 +86,10 @@ export default function Features() {
             <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
               <h2 className="h2 mb-4">About Us.</h2>
               <p className="text-xl text-gray-400">
-                Rattrap is an irresistibly cute mouse. <br />
-                With its unique appearance, agile movements, and charming personality, it effortlessly integrates into our lives. <br />
-                Whether in the wild or as a pet to humans, Rattrap is a stunning creature that brings delight wherever it goes.
+
+                The Border Collie, a skilled herding dog, demonstrates its exceptional abilities as it tirelessly works to gather and guide a flock of sheep.<br />
+                With an intense focus and unwavering determination, the dog takes command of the situation.
+
               </p>
             </div>
 

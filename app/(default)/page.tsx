@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Rattrap - The Meme, The Legend',
+  title: 'Shepherds - Leading Every Sheep With The Token',
   description: 'Page description',
 }
 

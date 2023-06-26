@@ -57,12 +57,12 @@ export default function Footer() {
               <div className="mb-2">
                 {/* Logo */}
                 <Link href="/" className="inline-block" aria-label="Cruip">
-                  <img src='images/RatTrapLogo.jpg' width={40} />
+                  <img src='images/ShepherdsLogo.jpg' width={40} />
                 </Link>
               </div>
               <div className="text-gray-400">
-                Rattrap is A Little Mouse With A Big Dream <br/>
-                --  Everone Holding Rattrap  --
+                Shepherds Is A Cute Dog Can Gather and Guide A Flock of Sheep <br/>
+                --  Everone is the sheep  --
               </div>
             </div>
 
@@ -125,7 +125,7 @@ export default function Footer() {
             </ul> */}
 
             {/* Copyrights note */}
-            <div className="text-gray-400 text-sm mr-4">&copy; Rattrap 2023. All rights reserved.</div>
+            <div className="text-gray-400 text-sm mr-4">&copy; Shepherds 2023. All rights reserved.</div>
 
           </div>
 

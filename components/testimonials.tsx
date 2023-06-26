@@ -7,7 +7,7 @@ import TestimonialImage03 from '@/public/images/testimonial-03.jpg'
 export default function Testimonials() {
   const DinoMap = [
     {
-      imgSrc: 'images/RatTrapLogo.jpg',
+      imgSrc: 'images/ShepherdsLogo.jpg',
       title: '2023 Q2',
       content: (
         <p>
@@ -20,7 +20,7 @@ export default function Testimonials() {
       ),
     },
     {
-      imgSrc: 'images/RatTrapLogo.jpg',
+      imgSrc: 'images/ShepherdsLogo.jpg',
       title: '2023 Q3-4',
       content: (
         <p>
@@ -33,15 +33,15 @@ export default function Testimonials() {
       ),
     },
     {
-      imgSrc: 'images/RatTrapLogo.jpg',
+      imgSrc: 'images/ShepherdsLogo.jpg',
       title: '2024 ~',
       content: (
         <p>
           1. 10000 Holders<br />
           2. 20000 Telegram Members<br />
-          3. Rattrap DApp<br />
-          4. Rattrap Game<br />
-          5. Rattrap Merchandise
+          3. Shepherds DApp<br />
+          4. Shepherds Game<br />
+          5. Shepherds Merchandise
         </p>
       ),
     },
@@ -53,15 +53,14 @@ export default function Testimonials() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">RatMap</h2>
+            <h2 className="h2 mb-4">ShepherdsMap</h2>
             <p className="text-xl text-gray-400">
-              Feeding Your Rattrap.
-              By Buying
+              Everyone is a little sheep,
               <span className="text-blue-500 ml-2 mr-2">
-                $Rattrap
+                $Shepherds
               </span>
               <br />
-              You'll be able to feed one as you buy.
+              guides you to a brand new world
             </p>
           </div>
 

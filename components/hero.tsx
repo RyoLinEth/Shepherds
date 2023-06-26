@@ -1,5 +1,6 @@
 import VideoThumb from '@/public/images/hero-image-01.jpg'
 import ModalVideo from '@/components/modal-video'
+import LogoImage from '@/public/images/ShepherdsLogo.jpg'
 
 export default function Hero() {
   const contractAddress = "0x41b7Fe65CcC2aB05FCD0F4fb5f55A075F2a406Ca"
@@ -30,10 +31,10 @@ export default function Hero() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h1 mb-4" data-aos="fade-up">
-              Rattrap
+              Shepherds
             </h1>
             <p className="text-xl text-gray-400 mb-8" data-aos="fade-up" data-aos-delay="200">
-              A Little Mouse With A Big Dream <br />
+              A Cute Dog Can Gather and Guide A Flock of Sheep<br />
               CA : <br />
               <span className='text-sm'>
                 {contractAddress}
@@ -64,7 +65,7 @@ export default function Hero() {
               style={{
                 width: '50%'
               }}
-              src="images/RatTrapLogo.jpg"
+              src={"images/ShepherdsLogo.jpg"}
             />
           </div>
 

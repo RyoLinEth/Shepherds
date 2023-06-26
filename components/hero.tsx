@@ -3,7 +3,7 @@ import ModalVideo from '@/components/modal-video'
 import LogoImage from '@/public/images/ShepherdsLogo.jpg'
 
 export default function Hero() {
-  const contractAddress = "0x41b7Fe65CcC2aB05FCD0F4fb5f55A075F2a406Ca"
+  const contractAddress = "0xB74d28dd028B90deC33e3da7C6cB010F8098E821"
   const pancakeLink = `https://pancakeswap.finance/swap?outputCurrency=${contractAddress}`
 
   const presaleContract = '';
